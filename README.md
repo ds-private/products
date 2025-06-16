@@ -1,3 +1,12 @@
+# More Products
+
+1. Team Chat
+2. https://github.com/makeplane/plane (Project Management)
+3. Knowledge Base & Documentation Platform (An Open-Source Confluence/Notion Alternative)
+4. Next-Generation DevOps & Infrastructure Tooling
+5. High-Performance Data Engineering (Real-time data processing and analytics platforms)
+6. Secure & Compliant API Infrastructure
+
 Below is a short analysis of each broad product category—where it might fit, what its market looks like, and why (or why not) it might be the best initial product to build. At the end, you’ll find a recommendation of which **single** product category has, in my view, the **highest chance of success** as your MVP.
 
 ---
